@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181119680513",
+    "project_id": "mesanga-b3e2a",
+    "storage_bucket": "mesanga-b3e2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181119680513:android:7e075e6a308523d0010000",
+        "android_client_info": {
+          "package_name": "com.example.mesanga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181119680513-rb69cu1e6cs61n3f3cpnh6d7o9q9j83i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqosAPMjTbx1mHrykHRFMv9NUsQzpEd3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181119680513-rb69cu1e6cs61n3f3cpnh6d7o9q9j83i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
