@@ -46,7 +46,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
     return Scaffold(
       backgroundColor: animation!.value,
       body: Padding(
-        padding: EdgeInsets.symmetric(horizontal: 24.0),
+        padding: const EdgeInsets.symmetric(horizontal: 24.0),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.stretch,
@@ -79,7 +79,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                 )
               ],
             ),
-            SizedBox(
+            const SizedBox(
               height: 48.0,
             ),
             actionButtons(

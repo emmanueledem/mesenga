@@ -14,7 +14,7 @@ class actionButtons extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: EdgeInsets.symmetric(vertical: 16.0),
+      padding: const EdgeInsets.symmetric(vertical:  16.0),
       child: Material(
         color: buttonColor,
         borderRadius: BorderRadius.circular(30.0),
@@ -25,7 +25,7 @@ class actionButtons extends StatelessWidget {
           height: 42.0,
           child: Text(
             buttonName.toString(),
-            style: TextStyle(color: Colors.white),
+            style: const TextStyle(color: Colors.white),
           ),
         ),
       ),
