@@ -118,6 +118,7 @@ class MessageStream extends StatelessWidget {
             );
 
             messageBubbles.add(messageWidgets);
+            
           }
           return Expanded(
             child: ListView(

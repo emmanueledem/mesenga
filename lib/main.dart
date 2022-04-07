@@ -13,6 +13,8 @@ void main() async {
   );
 }
 
+W/DynamiteModule( 3557): Local module descriptor class for com.google.android.gms.providerinstaller.dynamite not found.
+
 class FlashChat extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
